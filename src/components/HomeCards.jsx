@@ -6,7 +6,7 @@ const HomeCards = () => {
     <>
       {/* <!-- Developers and Employers --> */}
       <section className="py-4">
-        <div className="container-xl lg:container m-auto">
+        <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 rounded-lg">
             <Card bg='bg-purple-100'>
               <h2 className="text-2xl font-bold">For Developers</h2>
